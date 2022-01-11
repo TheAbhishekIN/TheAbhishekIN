@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhishek Sharma, full time freelancer php Laravel developer
 - 👀 I’m interested in web development and larning new technologies
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Rust Language for Blockchain development
 - 📫 How to reach me biz.abhisharma@gmail.com
 
 <!---
