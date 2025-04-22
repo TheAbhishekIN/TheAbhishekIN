@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-- 💼 I specialize in **PHP**, **Laravel**, and modern web technologies.
+- 💼 I specialize in **PHP**, **Laravel**, **TypeScript**, **React Js** and modern web technologies.
 - 🌱 Continuously learning **new tools**, **frameworks**, and **development best practices**.
 - 💡 I enjoy solving complex problems and turning ideas into real-world solutions through code.
 
